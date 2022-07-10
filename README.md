@@ -3,7 +3,7 @@ A novel dataset for generating descriptions of Wikidata from Wikipedia paragraph
 
 # Dataset 
 
-The data contain over 80k examples in the file collected_data.json.  There are 2 phases of training, description generation and candidate ranking. 
+The data contain over 80k examples in the file "collected_data.json".  There are 2 phases of training, description generation and candidate ranking. 
 
 ## Phrase 1. Description generation 
 We consider Wikidata instances as topics of examples. The data distribution is training set ~ 80%, validation set ~ 10%, and test set ~ 10%.
