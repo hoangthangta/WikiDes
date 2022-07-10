@@ -6,7 +6,7 @@ A novel dataset for generating descriptions of Wikidata from Wikipedia paragraph
 The data contain over 80k examples in the file "collected_data.json".  There are 2 phases of training, description generation and candidate ranking. 
 
 ## Phrase 1. Description generation 
-We consider Wikidata instances as topics of examples. The data distribution is training set ~ 80%, validation set ~ 10%, and test set ~ 10%.
+We consider Wikidata instances as topics of examples. The data distribution is training set ~ 80%, validation set ~ 10%, and test set ~ 10%. We use first 256 tokens in Wikipedia first paragraphs as the documents in the training.
 * diff: The data is splitted by different topics. The training set will have different topics from validation and test sets.
 * random: The data is splitred by random topics. The sets will have random topics.
 
