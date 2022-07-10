@@ -1,4 +1,4 @@
-# WikiDes = Wikidata Descrition
+# WikiDes = Wiki Description
 A novel dataset for generating descriptions of Wikidata from Wikipedia paragraphs.
 
 # Dataset 
