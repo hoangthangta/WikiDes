@@ -11,7 +11,7 @@ We consider Wikidata instances as topics of examples. The data distribution is t
 * random: The data is splitred by random topics. The sets will have random topics.
 
 ## Phrase 2. Candidate ranking
-Similar to Phase, there are 2 groups of datasets by 2 ways of data splitting, different topic splitting and random topic splitting. The data distribution is training set ~ 75%, validation set ~ 12.5%, and test set ~ 12.5%.
+Similar to Phase 1, there are 2 groups of datasets by 2 ways of data splitting, different topic splitting and random topic splitting. The data distribution is training set ~ 75%, validation set ~ 12.5%, and test set ~ 12.5%.
 
 
 # Contact
