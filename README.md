@@ -14,5 +14,8 @@ We consider Wikidata instances as topics of examples. The data distribution is t
 Similar to Phase 1, there are 2 groups of datasets by 2 ways of data splitting, different topic splitting and random topic splitting. The data distribution is training set ~ 75%, validation set ~ 12.5%, and test set ~ 12.5%.
 
 
+# Publication
+In process of writing the report paper...
+
 # Contact
 We are from CIC IPN and DeCLaRe Lab (https://declare-lab.net/). If you have any question, contact to: Hoang Thang Ta, tahoangthang@gmail.com
