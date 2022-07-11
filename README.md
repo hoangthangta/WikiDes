@@ -15,12 +15,19 @@ Similar to Phase 1, there are 2 groups of datasets by 2 ways of data splitting, 
 
 ## Examples
 
+Phase 1's examples:
 ```
 {"wikidata_id": "Q55135146", "label": "Xyleborus intrusus", "source": "Xyleborus intrusus is a species of typical bark beetle in the family Curculionidae. It is found in North America.", "target": "species of insect", "baseline_candidates": ["taxon"]}
 
 {"wikidata_id": "Q21000782", "label": "Konstantinos Stivachtis", "source": "Konstantinos Stivachtis (Greek: Κωνσταντίνος Στιβαχτής, born 22 May 1980) is a Greek male volleyball player. He is part of the Greece men's national volleyball team. On club level he plays for Olympiacos.", "target": "Greek volleyball player", "baseline_candidates": ["human"]}
 ```
 
+Phase 2's examples:
+```
+{"source": "Knuthenborg Safaripark is a safari park on the island of Lolland in the southeast of Denmark. It is located 7 km (on Rte 289) to the north of Maribo, near Bandholm. It is one of Lolland's major tourist attractions with over 250,000 visitors annually, and is the largest safari park in northern Europe. It is also the largest natural playground for both children and adults in Denmark. Among others, it houses an arboretum, aviaries, a drive-through safari park, a monkey forest (with baboons, tamarins and lemurs) and a tiger enclosure. Knuthenborg covers a total of 660 hectares (1,600 acres), including the 400-hectare (990-acre) Safaripark. The park is viewable on Google Street View.", "candidate": ["park in Lolland, Denmark", "safari park"], "target": "Safari park in Denmark"}
+
+{"source": "March 2015 was the third month of that common year. The month, which began on a Sunday, ended on a Tuesday after 31 days.", "candidate": ["third month of that common year", "calendar month of a given year", "month starting on Sunday", "March"], "target": "month of 2015"}
+```
 
 # Publication
 In process of writing the report paper...
