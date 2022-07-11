@@ -3,7 +3,7 @@ A novel dataset for generating descriptions of Wikidata from Wikipedia paragraph
 
 # Dataset 
 
-The data contain over 80k examples in the file "collected_data.json".  There are 2 phases of training, description generation and candidate ranking. 
+The data contain over 80k examples in the file **collected_data.json**.  There are 2 phases of training, description generation and candidate ranking. 
 
 ## Phrase 1. Description generation 
 We consider Wikidata instances as topics of examples. The data distribution is training set ~ 80%, validation set ~ 10%, and test set ~ 10%. We use first 256 tokens in Wikipedia first paragraphs as the documents in the training.
@@ -12,6 +12,14 @@ We consider Wikidata instances as topics of examples. The data distribution is t
 
 ## Phrase 2. Candidate ranking
 Similar to Phase 1, there are 2 groups of datasets by 2 ways of data splitting, different topic splitting and random topic splitting. The data distribution is training set ~ 75% (6000 examples), validation set ~ 12.5% (1000 examples), and test set ~ 12.5% (1000 examples).
+
+## Examples
+
+```
+{"wikidata_id": "Q55135146", "label": "Xyleborus intrusus", "source": "Xyleborus intrusus is a species of typical bark beetle in the family Curculionidae. It is found in North America.", "target": "species of insect", "baseline_candidates": ["taxon"]}
+
+{"wikidata_id": "Q21000782", "label": "Konstantinos Stivachtis", "source": "Konstantinos Stivachtis (Greek: Κωνσταντίνος Στιβαχτής, born 22 May 1980) is a Greek male volleyball player. He is part of the Greece men's national volleyball team. On club level he plays for Olympiacos.", "target": "Greek volleyball player", "baseline_candidates": ["human"]}
+```
 
 
 # Publication
