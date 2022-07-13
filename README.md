@@ -42,5 +42,11 @@ Examples of Phase 2:
 # Publication
 In process of writing the report paper...
 
+# Laboratories
+* CIC IPN, http://nlp.cic.ipn.mx/
+* DeCLaRe Lab, https://declare-lab.net/
+
 # Contact
-We are from CIC IPN and DeCLaRe Lab (https://declare-lab.net/). If you have any question, contact to: Hoang Thang Ta, tahoangthang@gmail.com
+Hoang Thang Ta, tahoangthang@gmail.com
+
+
