@@ -40,7 +40,7 @@ Examples of Phase 2:
 ```
 
 # Publication
-In process of writing the report paper...
+Our paper "WikiDes: A Wikipedia-Based Dataset for Generating Short Descriptions from Paragraphs" is currently reviewing by Cognitive Computation journal.
 
 # Laboratories
 * CIC IPN, http://nlp.cic.ipn.mx/
