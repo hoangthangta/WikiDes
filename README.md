@@ -1,5 +1,5 @@
 # WikiDes = Wiki Description
-A novel dataset for generating descriptions of Wikidata from Wikipedia paragraphs. This is a problem of indicative summarization at first, but likely as indicative summarization after using ranking models. 
+We present a novel dataset for generating descriptions of Wikidata from Wikipedia paragraphs. This is a problem of both extreme summarization and indicative summarization. However, after using ranking models, the problem is likely more informative summarization.
 
 # Dataset 
 
