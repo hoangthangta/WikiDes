@@ -40,7 +40,7 @@ Examples of Phase 2:
 ```
 
 # Publication
-Our paper "WikiDes: A Wikipedia-Based Dataset for Generating Short Descriptions from Paragraphs" is currently reviewing by Cognitive Computation journal.
+Our paper "WikiDes: A Wikipedia-Based Dataset for Generating Short Descriptions from Paragraphs" is currently under the review process in Cognitive Computation journal.
 
 # Laboratories
 * CIC IPN, http://nlp.cic.ipn.mx/
